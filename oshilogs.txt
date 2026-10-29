@@ -12,43 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naiva =====
-[1]Naiva       |10:55:02 | 28-10-2026| login OK @mynaiva | score=2240 rank=3528
-[1]Naiva       |10:55:02 | 28-10-2026| serverTime=2026-10-28T10:55:02.000Z local=2026-10-28T10:55:02.374Z
+[1]Naiva       |11:12:20 | 29-10-2026| login OK @mynaiva | score=2300 rank=3497
+[1]Naiva       |11:12:20 | 29-10-2026| serverTime=2026-10-29T11:12:20.000Z local=2026-10-29T11:12:20.779Z
 --> [1]Naiva menjalankan: Claim Daily
-[1]Naiva       |10:55:03 | 28-10-2026| daily: OK +10 poin score=2250
---> [1]Naiva menjalankan: Auto All Tasks (5 pending)
-[1]Naiva       |10:55:05 | 28-10-2026| [1/5] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/mynaiva/status/2115396400134640418
-[1]Naiva       |10:55:05 | 28-10-2026| delay 10s...
-[1]Naiva       |10:55:18 | 28-10-2026| [2/5] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/mynaiva/status/2115396524866268526
-[1]Naiva       |10:55:18 | 28-10-2026| delay 10s...
-[1]Naiva       |10:55:30 | 28-10-2026| [3/5] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/mynaiva/status/2115396402202762183
-[1]Naiva       |10:55:30 | 28-10-2026| delay 10s...
-[1]Naiva       |10:55:42 | 28-10-2026| [4/5] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/mynaiva/status/2115396556602533204
-[1]Naiva       |10:55:42 | 28-10-2026| delay 10s...
-[1]Naiva       |10:55:54 | 28-10-2026| [5/5] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/mynaiva/status/2115396662703044868
-[1]Naiva       |10:55:54 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naiva       |10:55:55 | 28-10-2026| [1/1] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115392140092317 | proof=https://x.com/mynaiva/status/2115396528025088419
+[1]Naiva       |11:12:22 | 29-10-2026| daily: OK +10 poin score=2310
+--> [1]Naiva menjalankan: Auto All Tasks (8 pending)
+[1]Naiva       |11:12:24 | 29-10-2026| [1/8] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763250552551340
+[1]Naiva       |11:12:24 | 29-10-2026| delay 10s...
+[1]Naiva       |11:12:36 | 29-10-2026| [2/8] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763206169355545
+[1]Naiva       |11:12:36 | 29-10-2026| delay 10s...
+[1]Naiva       |11:12:48 | 29-10-2026| [3/8] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763441171158911
+[1]Naiva       |11:12:48 | 29-10-2026| delay 10s...
+[1]Naiva       |11:13:01 | 29-10-2026| [4/8] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763558956772347
+[1]Naiva       |11:13:01 | 29-10-2026| delay 10s...
+[1]Naiva       |11:13:13 | 29-10-2026| [5/8] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763532291538460
+[1]Naiva       |11:13:13 | 29-10-2026| delay 10s...
+[1]Naiva       |11:13:25 | 29-10-2026| [6/8] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763590639896322
+[1]Naiva       |11:13:25 | 29-10-2026| delay 10s...
+[1]Naiva       |11:13:37 | 29-10-2026| [7/8] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/mynaiva/status/2115763612030179248
+[1]Naiva       |11:13:37 | 29-10-2026| delay 10s...
+[1]Naiva       |11:13:49 | 29-10-2026| [8/8] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
+[1]Naiva       |11:13:49 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naiva       |11:13:51 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/mynaiva/status/2115763545662071482
 --> [1]Naiva menjalankan: Watch Anime
-[1]Naiva       |10:55:56 | 28-10-2026| watch: semua video sudah completed
+[1]Naiva       |11:13:52 | 29-10-2026| watch: semua video sudah completed
 --> [1]Naiva menjalankan: Read Article
-[1]Naiva       |10:55:58 | 28-10-2026| news: 30/30 artikel selesai dibaca
-[1]Naiva       |10:55:58 | 28-10-2026| mint eligibility: {"userId":"1713433179879780352","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Naiva       |10:55:58 | 28-10-2026| news: semua artikel sudah dibaca
+[1]Naiva       |11:13:54 | 29-10-2026| news: 30/30 artikel selesai dibaca
+[1]Naiva       |11:13:55 | 29-10-2026| mint eligibility: {"userId":"1713433179879780352","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Naiva       |11:13:55 | 29-10-2026| news: semua artikel sudah dibaca
 --> [1]Naiva menjalankan: Quiz Anime
 --> [1]Naiva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naiva       |10:56:01 | 28-10-2026| music: kedua misi sudah tercapai, stop
-[1]Naiva       |10:56:01 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Naiva       |10:56:01 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naiva       |10:56:01 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naiva       |11:13:57 | 29-10-2026| music: kedua misi sudah tercapai, stop
+[1]Naiva       |11:13:58 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Naiva       |11:13:58 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naiva       |11:13:58 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naiva menjalankan: Claim Missions
-[1]Naiva       |10:56:02 | 28-10-2026| mission music-listens-10: sudah diklaim
-[1]Naiva       |10:56:02 | 28-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naiva       |10:56:02 | 28-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naiva       |11:13:58 | 29-10-2026| mission music-listens-10: sudah diklaim
+[1]Naiva       |11:13:58 | 29-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naiva       |11:13:58 | 29-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naiva menjalankan: Check Eligibility
 
 --- eligibility [1]Naiva ---
-  @mynaiva | score=2240 rank=3528
-  tasks    [##############------] 11/16
+  @mynaiva | score=2300 rank=3497
+  tasks    [#######-------------] 4/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,15 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naiva menjalankan: Read Manga
-[1]Naiva       |10:56:06 | 28-10-2026| manga: 0/13 chapter belum completed
+[1]Naiva       |11:14:03 | 29-10-2026| manga: 0/13 chapter belum completed
 --> [1]Naiva menjalankan: Get Gift
-[1]Naiva       |10:56:06 | 28-10-2026| gift: 1/5 belum diterima
-[1]Naiva       |10:56:07 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
+[1]Naiva       |11:14:03 | 29-10-2026| gift: 0/5 belum diterima
 --> [1]Naiva menjalankan: Setup Profile
-[1]Naiva       |10:56:10 | 28-10-2026| profile: bio="https://x.com/mynaiva" fav=yuki rewardAt=1791686442
-[1]Naiva       |10:56:10 | 28-10-2026| profile: bonus sudah diklaim, skip
+[1]Naiva       |11:14:04 | 29-10-2026| profile: bio="https://x.com/mynaiva" fav=yuki rewardAt=1791686442
+[1]Naiva       |11:14:04 | 29-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Naiva menjalankan: Bind Wallet
-[1]Naiva       |10:56:10 | 28-10-2026| wallet: sudah terikat 7F2mw96WcY... (solana)
+[1]Naiva       |11:14:04 | 29-10-2026| wallet: sudah terikat 7F2mw96WcY... (solana)
 
 == RINGKASAN ==
-- Naiva: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
+- Naiva: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
